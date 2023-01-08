@@ -6,7 +6,7 @@ import Skills from "./skills";
 
 export default function Home() {
   return (
-    <div className="font-poppins bg-cover min-h-screen p-8 bg-[url('../assets/blob-p.svg')]">
+    <div className="font-poppins bg-cover min-h-screen p-8 bg-light">
       <Intro />
       <div className="grid grid-cols-4 gap-3 ">
         <div className="min-h-screen col-span-1 mx-12  mt-10 ">
