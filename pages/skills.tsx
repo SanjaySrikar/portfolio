@@ -3,9 +3,9 @@ export default function Skills() {
   return (
     <div className="container p-5 ">
       <h1 className="font-bold text-center text-3xl">Skills</h1>
-      <div className="skills flex flex-col px-5 justify-center mt-20 items-center p-5 border border-black rounded-lg backdrop-blur-sm">
+      <div className="skills flex flex-col px-5 justify-center mt-20 items-center p-5 border overflow-auto border-black rounded-lg backdrop-blur-sm">
         <div className="skill flex space-x-10">
-          <h1 className="font-semibold text-xl">TypeScript</h1>
+          <h1 className="font-semibold text-xl ">TypeScript</h1>
         </div>
         <div className="skill flex space-x-10">
           <h1 className="font-semibold text-xl">Java</h1>
