@@ -1,6 +1,6 @@
 import Image from "next/image";
-import InfineonLogo from "./assets/infi.png";
-import ClarivateLogo from "./assets/clar.png";
+import InfineonLogo from "../assets/infi.png";
+import ClarivateLogo from "../assets/clar.png";
 export default function Experience() {
   return (
     <div className="item ">

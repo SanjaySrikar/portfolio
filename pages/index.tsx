@@ -1,4 +1,3 @@
-import NavBar from "./common/nav-bar";
 import Contact from "./contact";
 import Experiences from "./experiences";
 import Intro from "./introduction";
