@@ -10,7 +10,7 @@ module.exports = {
         'poppins' : ['Poppins', 'sans-serif']
       },
       backgroundImage:{
-        'light': "url('../assets/blob-p.svg')",
+        'light': "url('../../assets/blob-p.svg')",
       }
     },
   },
